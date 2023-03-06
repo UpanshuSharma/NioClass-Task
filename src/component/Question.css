@@ -1,0 +1,14 @@
+.Question {
+  width: 80%;
+  height: 60%;
+  /* height: fit-content; */
+  margin: 30px auto;
+  padding: 10px 10px 10px 30px;
+  box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.question-n0 {
+  color: black;
+  font-size: 17px;
+  font-weight: 600;
+}
